@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>회원아이디 중복체크 </title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet"
@@ -20,7 +20,8 @@
 </head>
 <body>
 <div class="container pt-3">
+	아이디 중복 체크 구현
+	
 </div>
-
 </body>
 </html>
